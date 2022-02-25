@@ -1,0 +1,13 @@
+.menu{
+    height:35px;
+    width: 900px;
+    background-color: black;
+    word-spacing: 1px;
+    
+}
+.menu>a{background-color: black;
+    color: white;
+    padding: 0 25px;;
+}
+.menu>a:hover{color:red;
+}
